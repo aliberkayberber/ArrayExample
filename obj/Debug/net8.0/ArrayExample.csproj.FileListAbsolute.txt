@@ -1,0 +1,14 @@
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/bin/Debug/net8.0/ArrayExample
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/bin/Debug/net8.0/ArrayExample.deps.json
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/bin/Debug/net8.0/ArrayExample.runtimeconfig.json
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/bin/Debug/net8.0/ArrayExample.dll
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/bin/Debug/net8.0/ArrayExample.pdb
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ArrayExample.AssemblyInfoInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ArrayExample.AssemblyInfo.cs
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ArrayExample.csproj.CoreCompileInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ArrayExample.dll
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/refint/ArrayExample.dll
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ArrayExample.pdb
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ArrayExample.genruntimeconfig.cache
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ref/ArrayExample.dll
