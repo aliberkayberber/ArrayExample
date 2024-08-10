@@ -12,3 +12,4 @@
 /Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ArrayExample.pdb
 /Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ArrayExample.genruntimeconfig.cache
 /Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ref/ArrayExample.dll
+/Users/aliberkayberber/Documents/Pratikler/ArrayExample/obj/Debug/net8.0/ArrayExample.sourcelink.json
